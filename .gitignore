@@ -1,2 +1,11 @@
 
 *.png
+c10data/cifar-10-batches-py/data_batch_1
+c10data/cifar-10-batches-py/batches.meta
+c10data/cifar-10-batches-py/data_batch_2
+c10data/cifar-10-batches-py/data_batch_3
+c10data/cifar-10-batches-py/data_batch_4
+c10data/cifar-10-batches-py/data_batch_5
+c10data/cifar-10-batches-py/readme.html
+c10data/cifar-10-batches-py/test_batch
+c10data/cifar-10-python.tar.gz
